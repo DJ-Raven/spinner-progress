@@ -21,4 +21,5 @@ ProgressBar.cycleTime = 1000
 ProgressBar.repaintInterval = 50
 ```
 #### Screenshot
-![sp](https://github.com/DJ-Raven/spinner-progress/assets/58245926/57e7d436-061a-46b2-8cee-4a3552de7856)
+
+![sp](https://github.com/DJ-Raven/spinner-progress/assets/58245926/5866fcc3-044d-4f80-8328-3f63b1508689)
