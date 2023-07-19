@@ -12,6 +12,11 @@ public class SpinnerProgress extends JProgressBar {
         init();
     }
 
+    @Override
+    public void updateUI() {
+        setUI(new SpinnerProgressUI());
+    }
+
     private void init() {
         setUI(new SpinnerProgressUI());
     }
