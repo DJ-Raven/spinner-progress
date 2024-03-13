@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="24" height="24">
+  <linearGradient id="fVKtXaLBtLlurGwaMjjTIa" x1="24" x2="24" y1="45.37" y2="40.072" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-color="#737b80" />
+    <stop offset="1" stop-color="#575c61" />
+  </linearGradient>
+  <path fill="url(#fVKtXaLBtLlurGwaMjjTIa)" d="M19,44c0,0.553,0.448,1,1,1h8c0.553,0,1-0.447,1-1v-5H19V44z" />
+  <path fill="#ccc" d="M16,3h16c0.552,0,1,0.448,1,1v14H15V4C15,3.448,15.448,3,16,3z" />
+  <linearGradient id="fVKtXaLBtLlurGwaMjjTIb" x1="24" x2="24" y1="17.945" y2="42.499" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-color="#899198" />
+    <stop offset="1" stop-color="#787e85" />
+  </linearGradient>
+  <path fill="url(#fVKtXaLBtLlurGwaMjjTIb)" d="M36,21c0-1.656-1.344-3-3-3H15c-1.657,0-3,1.344-3,3v12c0,4,3,7,7,7h10c3,0,7-3,7-7V21z" />
+  <path fill="#666" d="M17.5,9h4C21.776,9,22,9.224,22,9.5v3c0,0.276-0.224,0.5-0.5,0.5h-4c-0.276,0-0.5-0.224-0.5-0.5v-3C17,9.224,17.224,9,17.5,9z" />
+  <path fill="#666" d="M26.5,9h4C30.776,9,31,9.224,31,9.5v3c0,0.276-0.224,0.5-0.5,0.5h-4c-0.276,0-0.5-0.224-0.5-0.5v-3C26,9.224,26.224,9,26.5,9z" />
+  <linearGradient id="fVKtXaLBtLlurGwaMjjTIc" x1="27.545" x2="20.339" y1="32.545" y2="25.339" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-color="#fff" />
+    <stop offset=".242" stop-color="#f2f2f2" />
+    <stop offset="1" stop-color="#ccc" />
+  </linearGradient>
+  <path fill="url(#fVKtXaLBtLlurGwaMjjTIc)" d="M29,29c0,2.761-2.239,5-5,5s-5-2.239-5-5s2.239-5,5-5S29,26.239,29,29z" />
+  <linearGradient id="fVKtXaLBtLlurGwaMjjTId" x1="21.879" x2="26.121" y1="26.879" y2="31.121" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-color="#f44f5a" />
+    <stop offset=".443" stop-color="#ee3d4a" />
+    <stop offset="1" stop-color="#e52030" />
+  </linearGradient>
+  <path fill="url(#fVKtXaLBtLlurGwaMjjTId)" d="M27,29c0,1.657-1.343,3-3,3s-3-1.343-3-3s1.343-3,3-3S27,27.343,27,29z" />
+</svg>
