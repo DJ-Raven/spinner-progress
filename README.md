@@ -57,7 +57,7 @@ UIManager.put("ProgressBar.cycleTime", 1000);
 UIManager.put("ProgressBar.repaintInterval", 15);
 ```
 
-| UI | Option | Description |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;UI&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Option | Description |
 | ------------ | ------------ | ------------ |
 | <img src="https://github.com/DJ-Raven/spinner-progress/blob/main/screenshot/default.jpg" alt="default"/> | `spinner.setHorizontalTextPosition(SwingConstants.TRAILING);`</br>`spinner.setVerticalTextPosition(SwingConstants.CENTER);`</br>`spinner.setStringPainted(true);` | `default` |
 | <img src="https://github.com/DJ-Raven/spinner-progress/blob/main/screenshot/icon-bottom.jpg" alt="icon-bottom"/> | `spinner.setHorizontalTextPosition(SwingConstants.CENTER);`</br>`spinner.setVerticalTextPosition(SwingConstants.TOP);`</br>`spinner.setStringPainted(true);` | |
