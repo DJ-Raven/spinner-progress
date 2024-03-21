@@ -29,12 +29,6 @@ This project library do not available in maven central. so you can install with 
   <artifactId>flatlaf-extras</artifactId>
   <version>3.4</version>
 </dependency>
-
-<dependency>
-    <groupId>com.miglayout</groupId>
-    <artifactId>miglayout-swing</artifactId>
-    <version>11.3</version>
-</dependency>
 ```
 
 ## Sample
