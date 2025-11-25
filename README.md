@@ -4,7 +4,7 @@ Java Swing spinner progress animation custome using JprogressBar with flatlaf.
 <img src="https://github.com/DJ-Raven/spinner-progress/blob/main/screenshot/animated.gif" alt="animated"/>
 
 ## Installation
-This project library do not available in maven central. so you can install with the jar library
+This project library do not available in maven central. Download [this](https://github.com/DJ-Raven/spinner-progress/raw/refs/heads/main/library/spinner-progress-1.0.0.jar) and create a folder in your project named `library` and place the downloaded JAR there.
 - Copy jar library file to the root project. exp : `library/spinner-progress-1.0.0.jar`
 - Add this code to `pom.xml`
 ``` xml
